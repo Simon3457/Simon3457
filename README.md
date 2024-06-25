@@ -21,14 +21,15 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SimonBoudreau | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-[<img align="left" alt="SimonBoudreau | Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/simon_boudreau/
 [linkedin]: https://www.linkedin.com/in/simon-boudreau/
 
 <!--
-**Simon3457/Simon3457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="SimonBoudreau | Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[instagram]: https://www.instagram.com/simon_boudreau/
+-->
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
