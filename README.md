@@ -2,24 +2,24 @@
 <h1>My name is Simon! <br/><a href="https://github.com/Simon3457">Programmer</a>, <a href="https://www.linkedin.com/in/simon-boudreau/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- [Nessus Vulnerability Management Lab](https://github.com/Simon3457/NessusLab/)
+- [Azure Sentinel SIEM Lab](https://github.com/Simon3457/AzureSIEMLab)
+- [Active Directory Home Lab](https://github.com/Simon3457/ADHomeLab)
 
-- [Active Directory Home Lab](https://github.com/Simon3457/)
-- [Nessus Vulnerability Management Lab](https://github.com/Simon3457/)
-- [Azure Sentinel SIEM Lab](https://github.com/Simon3457/)
-- [SYN Floods Research Project](https://github.com/Simon3457/)
+- <b>Python</b>
+  - [File Encryption Tool (Encryption/Decryption)](https://github.com/Simon3457/EncryptionTool)
+  
 
+<h2>📅 Upcoming Projects:</h2>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Simon3457/)
   - [Active Directory Bulk User Creation](https://github.com/Simon3457/)
   - [FIM (File Integrity Monitor)](https://github.com/Simon3457/)
 
 - <b>Python</b>
-  - [File Encryption Tool (Encryption/Decryption)](https://github.com/Simon3457/)
   - [Password Manager with SQL Database](https://github.com/Simon3457/)
 
-
 <h2> 🤳 Connect with me:</h2>
-
 [<img align="left" alt="SimonBoudreau | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 <!--
