@@ -11,8 +11,8 @@
 - [Active Directory Home Lab](https://github.com/Simon3457/ADHomeLab)
 
 - <b>PowerShell</b>
-  - [Failed RDP Login Source IP to full Geolocation Data Conversion](https://github.com/Simon3457/)
-  - [Active Directory Bulk User Creation](https://github.com/Simon3457/ADHomeLab/tree/main/ADScript)
+  - [Failed RDP Login Source IP to full Geolocation Data Conversion]()
+  - [Active Directory Bulk User Creation](https://github.com/Simon3457/ADHomeLab/blob/main/ADScript/CreateUsers.ps1)
 
 - <b>Python</b>
   - [File Encryption Tool (Encryption/Decryption)](https://github.com/Simon3457/EncryptionTool)
