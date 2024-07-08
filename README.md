@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Nessus Vulnerability Management Lab](https://github.com/Simon3457/NessusLab/)
-- [Azure Sentinel SIEM Lab](https://github.com/Simon3457/AzureSIEMLab)
 - [Active Directory Home Lab](https://github.com/Simon3457/ADHomeLab)
+- [Azure Sentinel SIEM Lab](https://github.com/Simon3457/AzureSIEMLab)
+- [Nessus Vulnerability Management Lab](https://github.com/Simon3457/NessusLab/)
 - [SYN Flood Attack Research Project](https://github.com/Simon3457/SYNFloodResearch/)
 
 - <b>PowerShell</b>
