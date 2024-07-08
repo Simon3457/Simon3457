@@ -1,17 +1,15 @@
 ## Hi there 👋
 <h1>My name is Simon! <br/><a href="https://github.com/Simon3457">Programmer</a>, <a href="https://www.linkedin.com/in/simon-boudreau/">Cybersecurity Professional</a></h1>
-<p>
-  
-</p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Nessus Vulnerability Management Lab](https://github.com/Simon3457/NessusLab/)
 - [Azure Sentinel SIEM Lab](https://github.com/Simon3457/AzureSIEMLab)
 - [Active Directory Home Lab](https://github.com/Simon3457/ADHomeLab)
+- [SYN Flood Attack Research Project](https://github.com/Simon3457/SYNFloodResearch/)
 
 - <b>PowerShell</b>
-  - [Failed RDP Login Source IP to full Geolocation Data Conversion](https://github.com/Simon3457/AzureSIEMLab/blob/main/SIEM/Failed_RDP.ps1)
+  - [Failed RDP Login Source IP to Geolocation Data Conversion](https://github.com/Simon3457/AzureSIEMLab/blob/main/SIEM/Failed_RDP.ps1)
   - [Active Directory Bulk User Creation](https://github.com/Simon3457/ADHomeLab/blob/main/ADScript/CreateUsers.ps1)
 
 - <b>Python</b>
