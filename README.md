@@ -18,6 +18,8 @@
 
 <h2>📅 Upcoming Projects:</h2>
 
+- <b>Web Programming</b>
+  - [Music Artist/Band Website](https://github.com/Simon3457/)
 - <b>Python</b>
   - [Password Manager with SQL Database](https://github.com/Simon3457/)
 
