@@ -15,7 +15,7 @@
 - <b>Python</b>
   - [File Encryption Tool (Encryption/Decryption)](https://github.com/Simon3457/EncryptionTool)
 
-
+<!--
 <h2>📅 Upcoming Projects:</h2>
 
 - <b>Web Programming</b>
@@ -24,7 +24,6 @@
   - [Password Manager with SQL Database](https://github.com/Simon3457/)
 
 
-<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SimonBoudreau | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
